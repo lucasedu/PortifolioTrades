@@ -1,0 +1,6 @@
+C:\Users\Lucas Silva\Documents\Estudos\CreditSuisse\CreditSuisse\obj\Debug\CreditSuisse.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Silva\Documents\Estudos\CreditSuisse\CreditSuisse\bin\Debug\CreditSuisse.exe.config
+C:\Users\Lucas Silva\Documents\Estudos\CreditSuisse\CreditSuisse\bin\Debug\CreditSuisse.exe
+C:\Users\Lucas Silva\Documents\Estudos\CreditSuisse\CreditSuisse\bin\Debug\CreditSuisse.pdb
+C:\Users\Lucas Silva\Documents\Estudos\CreditSuisse\CreditSuisse\obj\Debug\CreditSuisse.exe
+C:\Users\Lucas Silva\Documents\Estudos\CreditSuisse\CreditSuisse\obj\Debug\CreditSuisse.pdb
